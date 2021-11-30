@@ -1,0 +1,168 @@
+<style>
+      body {
+        background-color: #f5f5f5;
+      }
+      header a {
+        float: left;
+        padding: 3em 2em;
+        text-decoration: none;
+        color: grey;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+      .home {
+        margin-left: 27em;
+        color: white;
+        background-color: yellowgreen;
+      }
+      .contact {
+        margin-right: 27em;
+      }
+      .clear {
+        clear: both;
+      }
+      #space {
+        padding: .5em 0;
+        font-size: 4rem;
+        font-family: sans-serif;
+      }
+      section {
+        margin: 0 4em;
+      }
+      #hotel {
+        height: 90vh;
+        background: url(space.jpg) no-repeat center scroll;
+        background-size: cover;
+      }
+      #scroll{
+         margin-left:37rem;
+         margin-right:32.1rem;
+      }
+      span {
+        color: yellowgreen;
+        font-weight: 900;
+      }
+     .section1 p{
+       float:left;
+     }
+    
+      .section2 .heading {
+        font: 2rem light;
+        color: #f5f5f5;
+        font-family: 'Josefin sans', sans-serif;
+        background-color: yellowgreen;
+        padding: 0.5em;
+        margin: 0 0;
+        text-align:center;
+      }
+    
+      .section2 .para{
+        color: #f5f5f5;
+        padding: 1em;
+        font-family: sans-serif;
+      }
+      .section2 div a {
+        text-decoration: none;
+        color: #f5f5f5;
+        padding: 1em;
+        float: right;
+        background-color: yellowgreen;
+      }
+        .section2 .smallbox1 {
+        float: left;
+        background-color: #28282b;
+      }
+      .section2 .smallbox2 {
+        margin: 0 4.7em;
+        float: left;
+        background-color: #28282b;
+      }
+      .section2 .smallbox3 {
+        float: right;
+        background-color: #28282b;
+      }
+      .section3 .smallbox1{
+        margin-top:4em;
+        float:left;
+        padding-right:2rem  ;  
+        padding-left:0.5em;
+      }
+      .section3 .heading{
+        font: 2rem medium;
+        font-family:'Josefin sans', sans-serif;
+        margin-bottom:2em;
+        text-align:left;
+      }
+      .section3 ul{
+        font-size:1.5rem;
+        padding: 0;
+        list-style: none;
+        }
+       .section3 li{
+        padding:0.5em 0;
+        font-size:1.5rem;
+       }
+  
+        .section3 li::before{
+         content: "\00BB";
+        }
+       .section3 .smallbox2{
+        margin:4em 2em 2em 5em;
+        float:left; 
+        padding-left:0.5em;
+        padding-right:0.5em;
+        line-height: 2em;
+        font-family: sans-serif;
+      }
+      .section3 span{
+        font-family:sans-serif ;
+        font:2em medium;
+      }
+      button{
+        background-color:#28282b ;
+        color:white;
+        padding:1em;
+        font-size:medium;
+      }
+        .section3 .smallbox3{
+        
+        float:right; 
+        margin-top:4em;
+        padding-left:0.5em;
+        line-height: 2em;
+        font-family: sans-serif;
+      }
+      .number1{
+        height:20vh;
+        font-size:8.5em;
+        background-color:yellowgreen;
+        float:left;
+      }
+      .number2{
+        height:20vh;
+        font-size:8.5em;
+        background-color:yellowgreen;
+        float:left;
+        padding:0 2rem;
+      }
+      #para1{
+        height:20vh;
+        background-color:#28282b;
+        color:white;
+        float:left;
+        padding-left:1em;
+        padding-right:1em;
+      }
+      .section4 h1{
+        color:yellowgreen;
+         font-family:sans-serif ;
+        font:1.5em medium;
+      }
+      .section4 .div2{
+        float:right;
+      }
+      footer p{
+        padding:2em;
+        font-family: osawald,sans-serif;
+      }
+
+    </style>
